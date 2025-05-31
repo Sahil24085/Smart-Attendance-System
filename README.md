@@ -34,13 +34,7 @@ This project is a real-time face recognition attendance system built using **Ope
 
 ![Streamlit](./student_images/LandingPage.jpg)
 
-2. **First Time:**
-![Streamlit](./student_images/FirstTime.jpg)
-
-3. **Rest of Time:**
-![Streamlit](./student_images/RestOfTime.jpg)
-
-4. **Show Table:**
+2. **Show Table:**
 ![Streamlit](./student_images/ShowTable.jpg)
 
 ## 📂 Project Structure
